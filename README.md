@@ -1,4 +1,4 @@
-# NetFlix Insights and Visualizations
+# Netflix Movies and TV Shows
  Netflix is one of the most popular digital streaming media service providers today. Netflix provides streaming services for movies and tv shows from various countries in the world. As a digital media with many users, Netflix also has a very large amount of data.This dataset consists of tv shows and movies available on Netflix as of 2020. In this jupyter notebook, I will perform data visualizations using Netflix data using matplotlib, seaborn and pandas. 
   
  ## Datasets
@@ -19,10 +19,6 @@
 * duration : Total Duration - in minutes or number of seasons
 * listed_in : Genre
 * description : The summary description
- 
- ## Netflix Movies and TV Shows
-Problem Statement :
-Netflix is one of the most popular OTT platforms all over the world with more than 220 million paid subscribers. It is a streaming service that offers an abundance of TV shows, movies, animes, documentaries, etc. With the increasing number of affordable smartphones coupled with great internet service, OTT platforms have risen exponentially year by year by eliminating advertisements from their process workflow! Due to the COVID - 19 lockdowns, competition in this domain has become fierce between streaming platforms! These platforms are in a race to engulf as many customers as possible into their services by providing varied offers, using ML recommender systems for content suggestion, etc to maximize the customer lifetime value! This dataset gives the opportunity to create a report based on the insights gained from the tabular that consists of text as well as numerical data using visualization techniques!
 
  
 ## Data cleaning
