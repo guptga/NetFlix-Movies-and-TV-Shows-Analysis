@@ -1,5 +1,5 @@
 # NetFlix Insights and Visualizations
- Netflix is one of the most popular digital streaming media service providers today. Netflix provides streaming services for movies and tv shows from various countries in the world. As a digital media with many users, Netflix also has a very large amount of data.This dataset consists of tv shows and movies available on Netflix as of 2020. In this jupyter notebook, I will perform data visualizations using Netflix data using matplotlib, seaborn and pandas. 
+ Netflix is one of the most popular digital streaming media service providers today. Netflix provides streaming services for movies and tv shows from various countries in the world. As a digital media with many users, Netflix also has a very large amount of data.This dataset consists of tv shows and movies available on Netflix as of 2020. In this jupyter notebook, we will perform data visualizations using Netflix data using matplotlib, seaborn and pandas. 
   
  ## Datasets
  * The netflix dataset we have used is from kaggle, which is https://www.kaggle.com/code/aayushmishra1512/netflix-data-analysis-and-visualization/notebook
