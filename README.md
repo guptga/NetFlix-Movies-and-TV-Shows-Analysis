@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows
+# NetFlix Insights and Visualizations
  Netflix is one of the most popular digital streaming media service providers today. Netflix provides streaming services for movies and tv shows from various countries in the world. As a digital media with many users, Netflix also has a very large amount of data.This dataset consists of tv shows and movies available on Netflix as of 2020. In this jupyter notebook, I will perform data visualizations using Netflix data using matplotlib, seaborn and pandas. 
   
  ## Datasets
@@ -19,6 +19,10 @@
 * duration : Total Duration - in minutes or number of seasons
 * listed_in : Genre
 * description : The summary description
+ 
+ ## Netflix Movies and TV Shows
+Problem Statement :
+Netflix is one of the most popular OTT platforms all over the world with more than 220 million paid subscribers. It is a streaming service that offers an abundance of TV shows, movies, animes, documentaries, etc. With the increasing number of affordable smartphones coupled with great internet service, OTT platforms have risen exponentially year by year by eliminating advertisements from their process workflow! Due to the COVID - 19 lockdowns, competition in this domain has become fierce between streaming platforms! These platforms are in a race to engulf as many customers as possible into their services by providing varied offers, using ML recommender systems for content suggestion, etc to maximize the customer lifetime value! This dataset gives the opportunity to create a report based on the insights gained from the tabular that consists of text as well as numerical data using visualization techniques!
 
  
 ## Data cleaning
@@ -29,8 +33,10 @@
  
  To answer this question , we made two visualizations, one is pie plot and other one is bar plot. Here we grouped the column 'entertainment type' and used count() function on it to get the count of number of movies and Tv shows avaliable to watch on netflix. After that we created 2 plots using this information one is pie plot and other one is bar plot, from which we can see clearly that there is more movies avaliable on netflix than Tv shows.
  
- ![image](https://user-images.githubusercontent.com/28380164/207076881-04d61dcb-64f7-44c0-a0a5-cb66edcd6559.png)
- ![image](https://user-images.githubusercontent.com/28380164/207077142-89c4c436-bea3-465d-8976-cb93bd7338c8.png)
+![image](https://user-images.githubusercontent.com/28380164/207103839-6374ee8d-bc69-46ab-bb04-229680f4e46c.png)
+
+![image](https://user-images.githubusercontent.com/28380164/207103572-05335b10-cf72-4c3d-8195-72bd99ff7665.png)
+
  
  ## Question2:  What are the most popular genre on netflix?
  
