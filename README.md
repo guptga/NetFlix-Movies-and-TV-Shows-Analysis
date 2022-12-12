@@ -20,11 +20,6 @@
 * listed_in : Genre
 * description : The summary description
  
- ## Netflix Movies and TV Shows
-Problem Statement :
-Netflix is one of the most popular OTT platforms all over the world with more than 220 million paid subscribers. It is a streaming service that offers an abundance of TV shows, movies, animes, documentaries, etc. With the increasing number of affordable smartphones coupled with great internet service, OTT platforms have risen exponentially year by year by eliminating advertisements from their process workflow! Due to the COVID - 19 lockdowns, competition in this domain has become fierce between streaming platforms! These platforms are in a race to engulf as many customers as possible into their services by providing varied offers, using ML recommender systems for content suggestion, etc to maximize the customer lifetime value! This dataset gives the opportunity to create a report based on the insights gained from the tabular that consists of text as well as numerical data using visualization techniques!
-
- 
 ## Data cleaning
  
  In this jupyter notebook we used netfilx_titles.csv, which contains movies and tv shows titles, show id, duration, years, ratings, directors, cast as columns we we are going to use further in the visualization in jupyter notebook using pandas library. First thing we did was we dropped the null values and and dropped the unnecessaary columns to make the data more presentable and also replaced the columns values wherever its neccessary. We column changed the column names of 'type' to 'entertainment type' and 'listed in' to 'genre' to make it more understandable.
