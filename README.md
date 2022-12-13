@@ -75,7 +75,7 @@ To answer this question we use OMdb api to get the data for IMDB ratings. Once w
 ![image](https://user-images.githubusercontent.com/116124534/207210891-3141dd02-be17-4da4-999a-c7846ed5758a.png)
 
 
-#The most used words in Netflix titles are love, world and  man.
+# The most used words in Netflix titles are love, world and  man.
 ![image](https://user-images.githubusercontent.com/116124534/207210910-02c5fa29-ec6e-484f-b99a-fa9b3d94a740.png)
 
 
